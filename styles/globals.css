@@ -1,3 +1,4 @@
+/* styles/globals.css */
 body {
   display: flex;
   justify-content: center;
@@ -7,7 +8,7 @@ body {
   font-family: Arial, sans-serif;
 }
 
-.container {
+.app {
   text-align: center;
 }
 
@@ -24,4 +25,13 @@ body {
 
 button {
   margin-left: 10px;
+}
+
+label {
+  margin: 10px;
+}
+
+select {
+  padding: 5px;
+  margin-left: 5px;
 }
